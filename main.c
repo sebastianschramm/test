@@ -1,5 +1,5 @@
 #include "hallo.h"
 
 void main() {
-    printf("hallo welt\n");
+    printf("hallo welt!\n");
 }
